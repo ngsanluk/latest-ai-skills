@@ -9,7 +9,7 @@ This repository is dedicated to showcasing the latest innovations and skills in 
 [Sunny Ng](https://training.imagenation.com.hk/#sunny-ng)  
 **Founder / Master Trainer** at [Image Nation](https://training.imagenation.com.hk)  
 **Part-time Lecturer** at HKU Business School, HKU School of Chinese, HKUSPACE, EdUHK  
-**Email**: sunny.ng@imagenation.com.hk
+**Email**: sunny.ng@imagenation.com.hk or sunnyng@eduhk.hk
 
 # Useful Keyboard Shortcuts
 
@@ -41,22 +41,22 @@ To open the following AI tools in a **NEW** browser tab, hold `CTRL` (or `CMD` o
 - [VisualGPT](https://visualgpt.io) - Photo Editor with AI / Image Generation
 - [LMArena](https://lmarena.ai) - Compare and explore different large language models.
 - [Notion AI](https://www.notion.com) - Note-taking and productivity app with AI features.
+- [ Napkin AI](https://www.napkin.ai/) - The visual AI for business storytelling.
 - [Canva](https://www.canva.com) - Graphic design platform with AI-powered tools. Great for PowerPoint Generation.
 
 # More on Popular AI Tools
 
 - [Microsoft 365 Copilot](https://m365.cloud.microsoft/) - AI assistant integrated into Microsoft 365 apps.
-- [ElevenLabs](https://elevenlabs.io) - AI-powered text-to-speech platform.
 - [narakeet](https://www.narakeet.com/languages/chinese-text-to-speech/) - Easily Create Voiceovers Using Realistic Text to Speech
+- [ElevenLabs](https://elevenlabs.io) - AI-powered text-to-speech platform.
 - [Cleanvoice AI](https://cleanvoice.ai) - Audio editing tool that removes filler words, stutters, and long pauses from audio recordings.
-- [Stable Diffusion](https://stablediffusionweb.com) - Open-source image generation model.
+- [Yeri AI](https://yeri.ai/) - Open-source image generation model. Previously know as Stablediffusion.
 - [Kling AI](https://app.klingai.com) - AI-powered video creation platform.
 - [Hailuo AI](https://hailuoai.video) - AI-powered video creation platform.
 - [Runway](https://runwayml.com) - AI-powered video editing and creation
 - [newarc](https://www.newarc.ai/) - AI-powered fashion creative platform.
 - [Tripoai](https://studio.tripo3d.ai) - AI-powered 3D content creation platform.
 - [ideogram](https://ideogram.ai/) - AI-powered image generation platform.
-- [ Napkin AI](https://www.napkin.ai/) - The visual AI for business storytelling.
 
 # Other Tech Tools for Teaching & Learning
 
