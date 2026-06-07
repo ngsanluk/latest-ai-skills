@@ -1,5 +1,7 @@
 # Latest AI Innovations and Skills
 
+![](./images/banner.png)
+
 This repository is dedicated to showcasing the latest innovations and skills in the field of Artificial Intelligence (AI). It serves as a comprehensive resource for educators and practitioners to stay updated with the cutting-edge developments in AI technologies. It includes advanced prompting skills, new AI features, building custom AI assistants and hands-on agentic AI.
 
 # Hello! My name is Sunny 🌞
