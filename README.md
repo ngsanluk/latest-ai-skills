@@ -429,6 +429,26 @@ Use the above prompt in Gemini to create your own canvas or click the link below
 ---
 
 ```
+generate an html animation to show the concept of binomial formula
+```
+
+Use the above prompt in Gemini to create your own canvas or click the link below to see my pre-generated canvas.
+
+[Binomial Formula Animation V1](https://gemini.google.com/share/e91b2e1053c9)
+
+---
+
+```
+create an interactive simulation to help students understand the concept of binomial formula
+```
+
+Use the above prompt in Gemini to create your own canvas or click the link below to see my pre-generated canvas.
+
+[Binomial Formula Animation V2](https://gemini.google.com/share/d5fd067bae8d)
+
+---
+
+```
 show a simple matrix calculation using html5 animation
 ```
 
