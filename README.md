@@ -6,7 +6,7 @@ This repository is dedicated to showcasing the latest innovations and skills in 
 
 # Hello! My name is Sunny 🌞
 
-<img src="./images/sunny-ng.png" alt="Sunny Ng" width="150"/>
+<img src="./images/sunny-ng.png" alt="Sunny Ng" width="150" id="profile-image"/>
 
 [Sunny Ng](https://training.imagenation.com.hk/#sunny-ng)  
 **Founder / Master Trainer** at [Image Nation](https://training.imagenation.com.hk)  
