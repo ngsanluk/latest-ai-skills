@@ -331,7 +331,14 @@ Video generation is an emerging field in AI that allows users to create videos b
 
 Video generation cost is generally higher than image generation due to the increased complexity and computational resources required to create videos. Free video generation tools may have limitations on the length and quality of the videos they can produce, while paid tools often offer more features and higher quality outputs. It's important to consider your specific needs and budget when choosing a video generation tool.
 
-Below is an example prompt used on Gemini Omni.
+## Use Cases of Generative Video in Math Education
+
+Dynamic Visualization of Abstract Concepts - Many algebraic and geometric concepts are difficult for students to grasp through static textbook images. Generative video can create smooth, dynamic animations that show how mathematical structures change in real-time.
+
+- **Graph Transformations**: Instead of just showing the final graph, a video can dynamically show how changing the values of $a$, $h$, and $k$ in a quadratic function $f(x) = a(x-h)^2 + k$ shifts and stretches the parabola.
+- **The Unit Circle and Trigonometric Functions**: A video can animate a point moving around the unit circle while simultaneously tracing the corresponding sine or cosine wave on a coordinate plane, explicitly linking the circle to the wave function.
+- **Optimization and Geometry Problems**: If a problem asks for the maximum volume of a box made from a flat sheet of cardboard, a generative video can show the cardboard folding into different box shapes, visually demonstrating how the volume changes based on the cut size.
+- **Visualizing Geometric Proofs**: Instead of static steps, a video can show shapes cutting, rotating, and rearranging themselves to prove theorems visually, such as the Pythagorean theorem (e.g., showing the areas of the two smaller squares literally pouring into the larger square).
 
 ```
 Create a clean video to show a simple matrix calculation
@@ -339,17 +346,15 @@ Create a clean video to show a simple matrix calculation
 
 [![](./images/matrix-calculation.jpg)](./images/matrix-calculation.mp4)
 
+**Tips**: Video generation is still in its early stages, and the quality may not be perfect. And it's often slow and expensive. It's been improving rapidly though. At this moment, generative web-based interactive canvas (e.g., Google Gemini Canvas) may be a more practical option for educators to create dynamic visualizations for teaching purposes, while waiting for the video generation technology to mature further. We will experience Gemini Canvas soon.
+
 ---
 
 ## Let's try [Yeri AI](https://yeri.ai/)
 
-[![](./images/pouring-wine.jpg)](./images/pouring-wine.mp4)
+![](https://yeri.ai/_next/image?url=https%3A%2F%2Fimgcdn.stablediffusionweb.com%2Fimages%2Fhome-feature-showcase%2Ffeature-1-card.webp&w=3840&q=75)
 
-The above static images was upload to Yeri and the following prompt was used to generate the video.
-
-```
-Show the wine being poured from bottle to glass slowly.
-```
+Yeri AI offers free daily credits to experiment with video generation. You can use it to create simple videos based on your prompts. While the quality may not be perfect, it's a great way to get started with video generation and explore the possibilities of AI-generated content.
 
 ---
 
