@@ -34,7 +34,7 @@ To open the following AI tools in a **NEW** browser tab, hold `CTRL` (`CMD` on M
 
 - [Gemini](https://gemini.google.com) - Google Gemini is a powerful, multimodal large language model developed by Google that can understand and process a wide range of information, including text, images, canvas (apps),audio, and video.
 - [Perplexity](https://www.perplexity.ai) - AI search engine that provides concise answers with sources.
-- [Microsoft Copilot](https://copilot.microsoft.com/) - Free Microsoft AI assisant.
+- [Microsoft Copilot](https://copilot.microsoft.com/) - Free Microsoft AI assistant.
 - [Grok](https://grok.com) - AI tool for generating text and code.
 - [Poe](https://poe.com) - Platform to access multiple AI models in one place.
 - [Qwen](https://chat.qwen.ai) - Conversational AI for various tasks
@@ -52,7 +52,7 @@ To open the following AI tools in a **NEW** browser tab, hold `CTRL` (`CMD` on M
 - [narakeet](https://www.narakeet.com/languages/chinese-text-to-speech/) - Easily Create Voiceovers Using Realistic Text to Speech
 - [ElevenLabs](https://elevenlabs.io) - AI-powered text-to-speech platform.
 - [Cleanvoice AI](https://cleanvoice.ai) - Audio editing tool that removes filler words, stutters, and long pauses from audio recordings.
-- [Yeri AI](https://yeri.ai/) - Open-source image generation model. Previously know as Stablediffusion.
+- [Yeri AI](https://yeri.ai/) - Open-source image generation model. Previously known as Stablediffusion.
 - [Kling AI](https://app.klingai.com) - AI-powered video creation platform.
 - [Hailuo AI](https://hailuoai.video) - AI-powered video creation platform.
 - [Runway](https://runwayml.com) - AI-powered video editing and creation
@@ -72,16 +72,16 @@ RICE FACT is a useful framework to help you structure your prompts effectively w
 
 There are other prompting frameworks such as **ICIO** (Instruction, Context, Input, Output), **SCQA** (Situation, Complication, Question, Answer) and **STAR** (Situation, Task, Action, Result), they all have their own advantages and disadvantages. RICE FACT is more comprehensive and flexible, allowing you to include various elements in your prompts to achieve better results.
 
-**Beginner Pitfall**: AI beiginner users tend to use simple Instruction-only prompts, which often lead to vague and irrelevant responses. By adding more prompt components such as Role, Context, Example, Format, Action, Constraint, and Tone, you can significantly improve the quality of the AI's responses.
+**Beginner Pitfall**: AI beginner users tend to use simple Instruction-only prompts, which often lead to vague and irrelevant responses. By adding more prompt components such as Role, Context, Example, Format, Action, Constraint, and Tone, you can significantly improve the quality of the AI's responses.
 
 ![RICE FACT](./images/rice-fact.png)
 
-**Tips 1**: You can just click the copy button to replicate the prompt in your AI ssistant. It's OKAY to include the RICE FACT tags in your prompt.  
-**Tips 2**: In your furture prompting, You DON'T actually have to specifically add these tags in your prompts. They are just there to help you better understand the prompt structure.  
-**Tips 3**: It's NOT common to include all RICE FACT components in a single prompt.
+**Tips 1**: You can just click the copy button to replicate the prompt in your AI assistant. It's OKAY to include the RICE FACT tags in your prompt.  
+**Tips 2**: In your future prompting, You DON'T actually have to specifically add these tags in your prompts. They are just there to help you better understand the prompt structure.  
+**Tips 3**: It seldom include all RICE FACT components in a single prompt.  
 **Tips 4**: In some articles, A is referred as Action while some other articles refer to it as Audience. You can choose either one depending on the context of your prompt.
 
-**Instrustion** only
+**Instruction** only
 
 ```
 Role        →
@@ -221,14 +221,14 @@ It supports rich block types, such as text, headings, bullet points, tables, and
 
 ## Let's Practice Notion
 
-- Addding New Page
+- Adding New Page
 - Giving Page Title
 - Add a banner image to theme a page
 - Add icon to make the page more recognizable
 - Adding images
 - Adding embedded videos
 - Adding Google Map
-- Cross-devices features
+- Cross-device features
 
 # Image Editing & Generation
 
@@ -419,7 +419,7 @@ Use the following prompts to create a simple interactive canvas.
 ---
 
 ```
-Greate a playground for student to explore Pythagorean theorem
+Create a playground for student to explore Pythagorean theorem
 ```
 
 Use the above prompt in Gemini to create your own canvas or click the link below to see my pre-generated canvas.
@@ -452,7 +452,7 @@ Use the above prompt in Gemini to create your own canvas or click the link below
 show a simple matrix calculation using html5 animation
 ```
 
-Use the above prompt in Gemini to create your own canvas or click the link below tosee my pre-generated canvas.
+Use the above prompt in Gemini to create your own canvas or click the link below to see my pre-generated canvas.
 
 [Matrix Calculation Animation](https://gemini.google.com/share/538eea044790)
 
@@ -470,7 +470,7 @@ Use the above prompt in Gemini to create your own canvas or click the link below
 
 # Handy AI Tools / Features in Smart Phones
 
-- iPhone Camera app for texts extraction  
+- iPhone Camera app for text extraction  
   <img src="https://help.apple.com/assets/69F8EBBDF3B89A4F6E0C704C/69F8EBC43862495245036393/en_US/1a8aae72c370005405a237d6f89400b8.png" width="200" />
 
 - **Google Photos** app can do above
