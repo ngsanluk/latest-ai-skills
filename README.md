@@ -114,7 +114,6 @@ Constraint  →
 **Role** + **Instruction** + **Format**
 
 ```
-
 Role        → You are a secondary teacher.
 Instruction → Explain what GenAI is.
 Context     →
@@ -123,7 +122,6 @@ Format      → Use one sentence.
 Action      →
 Constraint  →
 Tone        →
-
 ```
 
 ---
@@ -131,7 +129,6 @@ Tone        →
 **Role** + **Instruction** + **Format**
 
 ```
-
 Role        → You are a kindergarten teacher.
 Instruction → Explain what GenAI is.
 Context     →
@@ -140,7 +137,6 @@ Format      → Use one sentence.
 Action      →
 Constraint  →
 Tone        →
-
 ```
 
 ---
@@ -148,7 +144,6 @@ Tone        →
 **Role** + **Instruction** + **Context**
 
 ```
-
 Role        → You are a tech trainer.
 Instruction → Explain what GenAI is.
 Context     → The target audience are non-technical executives.
@@ -157,7 +152,6 @@ Format      →
 Action      →
 Constraint  →
 Tone        →
-
 ```
 
 ---
