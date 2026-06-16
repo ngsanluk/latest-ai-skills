@@ -19,7 +19,7 @@ This repository is dedicated to showcasing the latest innovations and skills in 
 | ----------------- | --------------------------------------------------- |
 | `SHIFT` + `ENTER` | Move cursor to next line without sending out prompt |
 | `CTRL` + Click    | Open a link in a NEW browser tab                    |
-| `ALT` + `=`       | Insert / Edit LaTex                                 |
+| `ALT` + `=`       | Insert / Edit LaTeX                                 |
 | `CTRL` + `Z`      | Undo last action                                    |
 | `CTRL` + `C`      | Copy selected text                                  |
 | `CTRL` + `V`      | Paste copied text                                   |
@@ -32,7 +32,7 @@ It is more effective to keep multiple browser tabs open for different tools.
 
 To open the following AI tools in a **NEW** browser tab, hold `CTRL` (`CMD` on Mac) when clicking the links below.
 
-- [Gemini](https://gemini.google.com) - Google Gemini is a powerful, multimodal large language model developed by Google that can understand and process a wide range of information, including text, images, canvas (apps),audio, and video.
+- [Gemini](https://gemini.google.com) - Google Gemini is a powerful, multimodal large language model developed by Google that can understand and process a wide range of information, including text, images, canvas (apps), audio, and video.
 - [Perplexity](https://www.perplexity.ai) - AI search engine that provides concise answers with sources.
 - [Microsoft Copilot](https://copilot.microsoft.com/) - Free Microsoft AI assistant.
 - [Grok](https://grok.com) - AI tool for generating text and code.
@@ -52,7 +52,7 @@ To open the following AI tools in a **NEW** browser tab, hold `CTRL` (`CMD` on M
 - [narakeet](https://www.narakeet.com/languages/chinese-text-to-speech/) - Easily Create Voiceovers Using Realistic Text to Speech
 - [ElevenLabs](https://elevenlabs.io) - AI-powered text-to-speech platform.
 - [Cleanvoice AI](https://cleanvoice.ai) - Audio editing tool that removes filler words, stutters, and long pauses from audio recordings.
-- [Yeri AI](https://yeri.ai/) - Open-source image generation model. Previously known as Stablediffusion.
+- [Yeri AI](https://yeri.ai/) - Open-source image generation model. Previously known as Stable Diffusion.
 - [Kling AI](https://app.klingai.com) - AI-powered video creation platform.
 - [Hailuo AI](https://hailuoai.video) - AI-powered video creation platform.
 - [Runway](https://runwayml.com) - AI-powered video editing and creation
@@ -180,7 +180,7 @@ Context     →
 Example     →
 Format      → Use three bullet points.
 Action      →
-Constraint  → Each bullet points not more than 15 words.
+Constraint  → Each bullet point not more than 15 words.
 Tone        →
 ```
 
@@ -240,7 +240,7 @@ Google NanoBanana is a powerful image generation model that can create high-qual
 
 In Google Gemini, choose the "Create image" option to access the NanoBanana model. It allows you to create unique and personalized images for various purposes, such as social media posts, presentations, or creative projects.
 
-**See some samples prompts and generated images below:**
+**See some sample prompts and generated images below:**
 
 ```
 Minimalist isometric 3D graphic of an algebraic function machine. A bright orange box with a funnel on top labeled "Input x" and a conveyor belt coming out of the bottom labeled "Output y". Clean lines, modern educational tech style, isolated on a solid light gray background.
@@ -387,13 +387,13 @@ For high-fidelity video generation, you need to incorporate dynamic "ingredients
 
 ![](./images/napkin-demo.png)
 
-# Power Point Generation
+# PowerPoint Generation
 
 [Canva AI](https://www.canva.com/ai/) is a powerful tool that allows you to generate PowerPoint presentations quickly and easily. With Canva AI, you can create professional-looking slides by simply inputting your content and selecting a design template. The AI will then automatically format your slides, add relevant images, and suggest layouts to make your presentation visually appealing. This tool is especially useful for educators and professionals who need to create presentations on a regular basis, as it saves time and effort while still producing high-quality results.
 
 ![](https://content-management-files.canva.com/894e680a-6714-47e7-a22f-d9bfc09ebad6/canva-AI_hero2x.png)
 
-# Speech Synthesising
+# Speech Synthesizing
 
 <img src="https://www.narakeet.com/assets/4/nklogo.svg" width="100" />
 
@@ -418,7 +418,7 @@ Use the following prompts to create a simple interactive canvas.
 ---
 
 ```
-Create a playground for student to explore Pythagorean theorem
+Create a playground for students to explore Pythagorean theorem
 ```
 
 Use the above prompt in Gemini to create your own canvas or click the link below to see my pre-generated canvas.
