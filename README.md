@@ -79,7 +79,7 @@ There are other prompting frameworks such as **ICIO** (Instruction, Context, Inp
 **Tips 1**: You can just click the copy button to replicate the prompt in your AI assistant. It's OKAY to include the RICE FACT tags in your prompt.  
 **Tips 2**: In your future prompting, You DON'T actually have to specifically add these tags in your prompts. They are just there to help you better understand the prompt structure.  
 **Tips 3**: It seldom include all RICE FACT components in a single prompt.  
-**Tips 4**: In some articles, A is referred as Action while some other articles refer to it as Audience. You can choose either one depending on the context of your prompt.
+**Tips 4**: In some articles, A is referred to as Action while some other articles refer to it as Audience. You can choose either one depending on the context of your prompt.
 
 **Instruction** only
 
@@ -375,7 +375,7 @@ For high-fidelity video generation, you need to incorporate dynamic "ingredients
 
 [Napkin AI](https://napkin.ai/) is a powerful tool that allows you to turn your text-based ideas into compelling visual stories. It provides a user-friendly interface where you can input your text and generate visuals that enhance your storytelling. Whether you're creating a presentation, a report, or any other type of content, Napkin AI can help you make it more engaging and visually appealing.
 
-1.  Paste the following prompt to any AI assistant to seek for answer on secondary math teacher assessment cycle.
+1.  Paste the following prompt to any AI assistant to seek for an answer on secondary math teacher assessment cycle.
 
     ```
     Use bullet points format to show the secondary mathematics assessment cycle for teacher.
@@ -473,7 +473,7 @@ Use the above prompt in Gemini to create your own canvas or click the link below
   <img src="https://help.apple.com/assets/69F8EBBDF3B89A4F6E0C704C/69F8EBC43862495245036393/en_US/1a8aae72c370005405a237d6f89400b8.png" width="200" />
 
 - **Google Photos** app can do above
-- **Microsoft OneDrive** app can also do texts extraction
+- **Microsoft OneDrive** app can also do text extraction
 - **Google Lens** for image recognition and search
   ![](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/lens_dog.width-1300.png)
 - **Google mobile app** supports text, voice, camera capture AI search
@@ -487,7 +487,7 @@ Gemini Gems is a platform that allows you to create custom AI assistants tailore
 
 # Understanding Agentic AI
 
-Agentic AI refers to artificial intelligence systems that possess a degree of autonomy and can make decisions or take actions on their own. These AI agents are designed to interact with their environment, learn from it, and adapt their behavior based on the information they receive. Agentic AI operates independently and make informed decisions without constant human intervention.
+Agentic AI refers to artificial intelligence systems that possess a degree of autonomy and can make decisions or take actions on their own. These AI agents are designed to interact with their environment, learn from it, and adapt their behavior based on the information they receive. Agentic AI operates independently and makes informed decisions without constant human intervention.
 
 ---
 
@@ -496,7 +496,7 @@ Agentic AI refers to artificial intelligence systems that possess a degree of au
 
 ---
 
-**Microsoft Workspace Studio**  
+**Microsoft Copilot Studio**  
 ![](https://www.microsoft.com/en-us/microsoft-copilot/blog/wp-content/uploads/2023/11/Copilot-Studio-Home-1.png)
 
 ---
