@@ -537,6 +537,66 @@ Use the above prompt in Gemini to create your own canvas or click the link below
 
 ---
 
+```
+Create an interactive simulation of wave reflection and refraction at a boundary for HKDSE Physics. Include a 2D split-screen canvas showing an incident wave moving from Medium 1 to Medium 2. Provide sliders for "Refractive Index 1" (1.0 to 2.5), "Refractive Index 2" (1.0 to 2.5), and "Angle of Incidence" (0° to 90°). Dynamically calculate and display the refracted angle using Snell's Law. If the angle exceeds the critical angle, visually animate Total Internal Reflection (TIR) and trigger a text indicator saying "Total Internal Reflection Achieved".
+```
+
+Use the above prompt in Gemini to create your own canvas or click the link below to see my pre-generated canvas.
+
+[Wave Reflection & Refraction Simulation](https://share.gemini.google/3kIIaDaeSzol)
+
+---
+
+```
+Generate a dynamic pH and Titration curves simulation tool for secondary chemistry. The UI should feature a beaker of solution with a color-changing indicator and a live-updating line chart plotting pH vs. Vol of Titrant added. Include dropdowns to select the titration type (e.g., Strong Acid vs Strong Base, Weak Acid vs Strong Base) and a slider for "Volume of NaOH added (mL)" from 0 to 50mL. As the slider moves, the beaker color must smoothly transition (e.g., from clear to pink for phenolphthalein at pH 8.3-10) and plot the corresponding point on the titration curve.
+```
+
+Use the above prompt in Gemini to create your own canvas or click the link below to see my pre-generated canvas.
+
+[Acid-Base Titration Lab](https://share.gemini.google/mXuIViZZ4kk1)
+
+---
+
+```
+創建一個針對中學文言文句式與虛詞學習的互動拆解工具。介面左側提供一個下拉選單讓學生選擇經典文言字詞（例如：「之」、「而」、「以」、「其」），右側顯示該字在不同文言句子中的例句。包含一個互動滑桿或點選按鈕來切換其「詞性分類」（如：代詞、助詞、連詞、動詞）。當學生切換時，畫面要以不同顏色高亮（Highlight）句子中的對應結構，並動態顯示現代漢語白話文的翻譯對比與文法解析。
+```
+
+Use the above prompt in Gemini to create your own canvas or click the link below to see my pre-generated canvas.
+
+[墨韻語文 中學文言虛詞系統](https://share.gemini.google/1MZOr8A17Qz1)
+
+---
+
+```
+Build an interactive "Tone and Formal Register Transformer" application for writing tasks. The interface should have a text input box where students paste a casual or poorly phrased email sentence (e.g., "Give me the report by tomorrow coz I need it."). Include a dropdown menu for "Target Audience/Context" (e.g., To Principal, To a Peer, To a Business Client) and a "Politeness Level" slider (1 to 5). When the user clicks "Transform", generate and display three alternative rewrites alongside explanations of the grammatical changes made (like modal verbs usage or passive voice transformations).
+```
+
+Use the above prompt in Gemini to create your own canvas or click the link below to see my pre-generated canvas.
+
+[Tone & Formal Register Transformer](https://share.gemini.google/jzZmXDQUwLy5)
+
+---
+
+```
+Develop an interactive dynamic model of River Velocity and Sediment Transport (Hjulström curve concept). The screen should have two sections: an animation of a river cross-section showing water flow speed and sediment particles moving, and a scatter chart. Include a slider for "River Velocity (cm/s)" ranging from 0.1 to 500 cm/s and a dropdown for "Particle Size" (Clay, Sand, Gravel, Boulder). Based on the inputs, visually simulate whether the particle is undergoing Erosion, Transport, or Deposition, and highlight the corresponding zone on the graph.
+```
+
+Use the above prompt in Gemini to create your own canvas or click the link below to see my pre-generated canvas.
+
+[River Dynamics & Sediment Transport](https://share.gemini.google/t2VrJE2vPd0n)
+
+---
+
+```
+Create a Color Theory and Mixing simulator tool for Visual Arts students exploring the subtractive color model (CMYK) vs. additive color model (RGB). Provide three sliders for the primary colors depending on the chosen mode (e.g., Red, Green, Blue intensity from 0 to 255). Display a large digital canvas where overlapping circular spotlights blend in real-time based on the sliders. Include a text description panel that explains how secondary colors (like Cyan, Magenta, Yellow or white light) are formed through wavelength absorption or emission.
+```
+
+Use the above prompt in Gemini to create your own canvas or click the link below to see my pre-generated canvas.
+
+[Color Theory Simulator](https://share.gemini.google/2plrRG1VXUjI)
+
+---
+
 # Handy AI Tools / Features in Smart Phones
 
 - iPhone Camera app for text extraction  
