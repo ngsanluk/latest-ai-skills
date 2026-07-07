@@ -240,7 +240,7 @@ Google NanoBanana is a powerful image generation model that can create high-qual
 
 In Google Gemini, choose the "Create image" option to access the NanoBanana model. It allows you to create unique and personalized images for various purposes, such as social media posts, presentations, or creative projects.
 
-**See some sample prompts and generated images below:**
+**See some sample prompts and generated images for various subjects:**
 
 ```
 Minimalist isometric 3D graphic of an algebraic function machine. A bright orange box with a funnel on top labeled "Input x" and a conveyor belt coming out of the bottom labeled "Output y". Clean lines, modern educational tech style, isolated on a solid light gray background.
@@ -283,26 +283,90 @@ A flat vector design of a probability sample space. A large transparent glass ja
 ---
 
 ```
-A clean, 3-set Venn diagram vector illustration. Three overlapping circles colored in translucent pastel shades of cyan, magenta, and yellow, creating distinct intersection zones. Minimalist style, high contrast, perfect for secondary school logic and probability teaching slides.
-```
-
-![](./images/overlapping-circles.jpg)
-
----
-
-```
-A 2D geometry diagram for a math assessment on a solid white background. A perfect square with sharp black outlines contains a perfectly centered circle inside it that touches all four sides. The region inside the square but outside the circle is shaded in a light, solid grey color. The bottom edge of the square is labeled "14 cm". Sharp lines, flat design, top-down view, no 3D perspective, no textures. Clean textbook illustration style.
-```
-
-![](./images/circle-inside-square.jpg)
-
----
-
-```
 A flat 2D geometric diagram of a composite shape consisting of a rectangle with a right-angled triangle attached to its right side. Black outlines on a crisp, solid white background. The rectangle base is labeled "8 cm" and its height is labeled "5 cm". The triangle's base extends out, and its hypotenuse is visible. The total bottom length of the entire shape is labeled "12 cm". Textbook style, 2D vector illustration, top-down view, no shading, no 3D elements. Clear, legible font for numbers.
 ```
 
 ![](./images/square-and-triangle.jpg)
+
+---
+
+```
+Generate a photo-realistic image of a 19th-century scene on the South China coast, showing several British warships anchored in a misty Victoria Harbour, Hong Kong, with traditional Chinese wooden junks sailing in the foreground and barren hills in the background, all captured under a moody, late afternoon light.
+```
+
+![](./images/19th-century-victoria-harbour.jpg)
+
+**Teaching Purpose**: This image provides students with a visual sense of the historical context. It visually depicts the visual elements of the conflict and the landscape of Hong Kong before major development, helping students visualize the setting of the early 1840s.
+
+---
+
+```
+Generate a futuristic, architectural rendering of a proposed 'sky-garden' complex in the Kwun Tong waterfront area of Hong Kong. It should feature multi-level pedestrian walkways covered in lush greenery, solar panels integrated into the roofs, smart-sensor lighting, and clear, transparent vertical farming towers connecting high-rise residential buildings. In the distance, show a glimpse of the Kai Tak Cruise Terminal and the existing skyline under bright, clear daylight.
+```
+
+![](./images/kwun-tong-sky-garden.jpg)
+
+**Teaching Purpose**: This prompt creates an idealized visual that allows students to analyze sustainable urban design elements—green space, renewable energy, and smart technology—and how they could be integrated specifically into Hong Kong's dense urban fabric.
+
+---
+
+```
+Generate an image of a vibrant, multi-story street Chinese ink painted on the side of a tenement building in Sham Shui Po, Hong Kong. The painting features 'Shan Shui' ink landscape elements, showing abstract mountains and waterfalls created with powerful, layered ink strokes
+```
+
+![](./images/sham-shui-po-visual-art.jpg)
+
+**Teaching Purpose**: This visual provides a dynamic example of visual synthesis. Students can analyze the contrast between traditional composition and contemporary media, observing how specific art forms can merge to reflect Hong Kong's dual cultural identity.
+
+---
+
+```
+Generate a hyper-realistic photograph from an elevated, wide angle looking down onto a crowded, bustling street in Mong Kok, Hong Kong, at 6:00 PM. The street is packed with a mix of double-decker buses, red taxis, and a dense crowd of pedestrians. The buildings are incredibly narrow, with a mosaic of countless colorful neon signs with English and Chinese text overlapping. Rain has just stopped, making the asphalt glisten with a complex web of reflections. The lighting is diffused under a overcast sky, highlighting texture and chaotic energy.
+```
+
+![](./images/mongkok.jpg)
+
+**Teaching Purpose**: Use for descriptive writing exercises ("A sensory description of Hong Kong's rush hour"). Students can practice adjectives, adverbs, and verbs by analyzing the elements (e.g., 'the glistening reflection,' 'the chaotic energy,' 'the narrow, stacked buildings'). It can also spark creative writing about a specific character navigation this scene.
+
+---
+
+```
+An exquisite digital painting rendered in a modern interpretation of traditional Chinese ink wash style (Shuimo, 水墨畫). It depicts an ancient, secluded pavilion nestled among towering, misty karst mountains in Guilin, Southern China. A lone, elderly scholar, wearing a classical grey robe (Hanfu, 漢服), is seated inside the pavilion, calmly gazing upon a narrow river where a single fisherman on a bamboo raft is casting a net. A few plum blossom branches are visible in the foreground. The lighting is ethereal, suggesting early morning mist.
+```
+
+![](./images/shuimo.jpg)
+
+**Teaching Purpose**: This visual supports a unit on classical Chinese poetry or prose (e.g., teaching about natural solitude or 'bingshuang jiejing' (冰霜潔淨 - purity and integrity)). Students can use the imagery to analyze 'yijing' (意境 - artistic conception) or to inspire a creative writing piece that emulates the style of ancient literati.
+
+---
+
+```
+Generate a macro, close-up photograph of dynamic redox reaction in action inside a large, clear glass crystallization dish. The scene is a demonstration of the 'displacement' reaction. A piece of polished zinc metal is partially submerged in a deep blue solution of copper(II) sulfate. Where the metal touches the liquid, a vigorous reaction is occurring: dark brown, dendritic crystals of copper metal are rapidly growing and displacing the zinc. Small bubbles (gas evolution) are visible, and the overall solution surrounding the metal is visibly fading from blue to colorless. Lighting is bright, medical/laboratory style.
+```
+
+![](./images/redox.jpg)
+
+**Teaching Purpose**: This high-fidelity visualization allows students to observe dynamic molecular changes that are difficult to capture perfectly in a school lab (e.g., the speed and structure of crystal growth). It serves as a visual reference to help students write the correct ionic and chemical equations for the displacement of metal ions.
+
+---
+
+```
+Generate a highly magnified, 3D scanning electron micrograph (SEM) visualization of the process of endocytosis. It shows a cross-section of a living, healthy animal cell. The focus is a single, large extracellular nutrient particle, represented as a complex, glowing cluster of smaller proteins and lipids. The cell membrane is vividly shown curving inwards, forming a deep pocket around the particle. Clearly depict the 'coated vesicle' structure (e.g., clathrin proteins visible as an internal scaffolding) as the membrane pinches off, sealing the particle inside the cytoplasm. Use false colors: blue for the membrane, yellow/orange for the particle, and green for internal structures.
+```
+
+![](./images/bio.jpg)
+
+**Teaching Purpose**: General Science introduces cell transport, which Biology then analyzes in detail. This SEM style is an powerful replacement for simplistic textbook drawings. It helps students 'see' the dynamic, physical process of vesicle formation and the different layers/proteins involved in moving a large substance into the cell.
+
+---
+
+```
+A sequence of four high-fidelity photographic motion captures, composited into a single image, detailing the correct form of a perfect backhand drive in Badminton. A 16-year-old student athlete, wearing a professional, dark blue and white badminton kit, is frozen at four critical stages of the swing: 1. Preparation (weight on back foot), 2. Early backswing (racket head low, wrist cocked), 3. Contact point (wrist snap, impact with shuttlecock above head height), 4. Follow-through (full rotation, balance maintained). Arrows superimposed on the image show the trajectory of the racket head. The background is a clean, multi-court indoor gymnasium.
+```
+
+![](./images/pe.jpg)
+
+**Teaching Purpose**: Provide a flawless, 'gold-standard' model of complex motor skills. Students can visually compare this model sequence against video analysis of their own performance, identifying specific deviations in their form, wrist action, or weight transfer.
 
 ---
 
