@@ -433,6 +433,12 @@ For high-fidelity video generation, you need to incorporate dynamic "ingredients
 - **Audio/Soundscape Cues**: Include auditory details (e.g., "ambient sound of wind," "soft melodic piano background," "synchronized footsteps").
 - **Visual Style & Texture**: Define the look and feel (e.g., cinematic film grain, 16mm vintage aesthetic, high-frame-rate realism).
 
+## More Further References on Video Generation
+
+- [The ultimate prompting guide for Veo 3.1](https://cloud.google.com/blog/products/ai-machine-learning/ultimate-prompting-guide-for-veo-3-1)
+- [Seedance 2.0 Prompt Guide](https://seedance2.ai/guide)
+- [Dreamina Seedance 2.0 series prompt guide](https://docs.byteplus.com/en/docs/ModelArk/2222480)
+
 # Turn Texts into Visuals
 
 ![](https://www.napkin.ai/assets/og-image-v5.png?v=2)
