@@ -635,6 +635,23 @@ Use the above prompt in Gemini to create your own canvas or click the link below
 
 ---
 
+```
+Act as an HKDSE ICT teacher. I need an interactive algorithm visualizer app generated in Gemini Canvas to help Secondary 4-6 students grasp how Data Routing and Packet Switching work across a network.
+
+Please generate a fully functioning interactive simulator app that features:
+1. A network topology graph consisting of 5 nodes representing routers labeled (Hong Kong, Tokyo, Los Angeles, London, New York).
+2. A "Send Data Packet" button. When clicked, a visible dot (packet) travels along the links from Hong Kong to London.
+3. An interactive toggle to "Break a Node" (e.g., clicking Tokyo marks it red/offline). 
+4. When a node is broken and a new packet is sent, the visual path must dynamically change to show how packet switching reroutes data automatically via an alternative path (e.g., HK -> LA -> NY -> London).
+5. Include a live telemetry panel that shows: Hop Count, Current Path Array, and Packet Status (Delivered / Dropped).
+```
+
+Use the above prompt in Gemini to create your own canvas or click the link below to see my pre-generated canvas.
+
+[Packet Simulation](https://share.gemini.google/cLlKh0jXfHzJ)
+
+---
+
 # Handy AI Tools / Features in Smart Phones
 
 - iPhone Camera app for text extraction  
