@@ -597,6 +597,22 @@ Use the above prompt in Gemini to create your own canvas or click the link below
 
 ---
 
+```
+Act as an expert HK Secondary Music teacher. I want to use Gemini Canvas to generate an interactive web app simulation for Junior Secondary students learning about the Chinese Pentatonic Scale (五聲調式: 宮, 商, 角, 徵, 羽). 
+
+Create a responsive, visual interactive Canvas app that contains:
+1. An interactive virtual 5-key xylophone/piano styled like traditional Chinese chimes, clearly labeled with both the traditional names (Gong, Shang, Jue, Zhi, Yu) and Western pitch equivalents (C4, D4, E4, G4, A4). When clicked, it must play the correct audio pitch frequency using the Web Audio API.
+2. A "Scale Player" section that plays the scale ascending and descending so students can hear the distinct "Chinese music flavor".
+3. A "Melody Improviser" mini-game where students can click a button to generate a random 4-bar melody strictly constrained to these 5 notes, and a play button to listen to it.
+4. Keep the UI extremely clean, using traditional elements or soft colors, with toggleable English and Traditional Chinese labels (e.g., 宮 / Gong).
+```
+
+Use the above prompt in Gemini to create your own canvas or click the link below to see my pre-generated canvas.
+
+[Chinese Pentatonic Scale Sandbox](https://share.gemini.google/XqwpUAkLzhBa)
+
+---
+
 # Handy AI Tools / Features in Smart Phones
 
 - iPhone Camera app for text extraction  
