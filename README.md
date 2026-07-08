@@ -613,6 +613,28 @@ Use the above prompt in Gemini to create your own canvas or click the link below
 
 ---
 
+```
+Act as an expert HKDSE Geography teacher. Please use Gemini Canvas to generate an interactive, live-preview simulation dashboard illustrating "Traffic Congestion and Electronic Road Pricing (ERP) in Central, Hong Kong" to teach Sustainable Urban Development.
+
+The interactive simulation web app should include:
+1. A visual grid or animation canvas showing a mock layout of 'Central District' with simplified cars moving across a screen. 
+2. Sliders that allow students to dynamically adjust variables:
+   - Toll Fee level (HK$0 to HK$100)
+   - Peak Hour vs. Off-Peak Hour toggle
+   - Public Transport Efficiency (Bus/MTR availability slider)
+3. Live chart or metrics updating in real-time based on the sliders:
+   - Traffic Speed (km/h)
+   - Air Pollution Index (AQI / PM2.5 levels)
+   - Public Satisfaction (%)
+4. A brief text box inside the app explaining how this simulates the real-world economic lever of congestion charging to alleviate the urban heat island effect and gridlock in HK.
+```
+
+Use the above prompt in Gemini to create your own canvas or click the link below to see my pre-generated canvas.
+
+[Traffic Congestion Simulation](https://share.gemini.google/f7iGNno2cIj5)
+
+---
+
 # Handy AI Tools / Features in Smart Phones
 
 - iPhone Camera app for text extraction  
